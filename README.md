@@ -25,3 +25,5 @@ Robert Tarjan is a computer scientist who is known for his work in graph theory 
 ## Class diagram
 
 In my implementation i have graph in string to []string map format, so i dont have any class diagram.
+
+[Video](https://www.youtube.com/watch?v=joqmqvHC_Bo)
